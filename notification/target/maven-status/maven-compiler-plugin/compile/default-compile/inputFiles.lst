@@ -1,0 +1,7 @@
+/Applications/BJSS-workspace/Java/microservices/microservices/notification/src/main/java/com/microservices/notification/rabbitmq/NotificationConsumer.java
+/Applications/BJSS-workspace/Java/microservices/microservices/notification/src/main/java/com/microservices/notification/NotificationConfig.java
+/Applications/BJSS-workspace/Java/microservices/microservices/notification/src/main/java/com/microservices/notification/NotificationApplication.java
+/Applications/BJSS-workspace/Java/microservices/microservices/notification/src/main/java/com/microservices/notification/NotificationController.java
+/Applications/BJSS-workspace/Java/microservices/microservices/notification/src/main/java/com/microservices/notification/Notification.java
+/Applications/BJSS-workspace/Java/microservices/microservices/notification/src/main/java/com/microservices/notification/NotificationRepository.java
+/Applications/BJSS-workspace/Java/microservices/microservices/notification/src/main/java/com/microservices/notification/NotificationService.java
